@@ -1,4 +1,4 @@
-# DIO - Trilha Java Básico
+# DIO - Trilha Java Básico - Desafio Conluido
 www.dio.me
 
 #### Autores
